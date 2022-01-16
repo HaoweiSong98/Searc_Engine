@@ -2,7 +2,7 @@
 
 spacetime-crawler4py-master file is resource from professor KRONE MARTINS, A. 
 
-Step1: first make sure folder 'DEV' is in the same directory with new_M1.py
+Step1: first make sure empty folder 'DEV' is in the same directory with new_M1.py
 
 Step2: run new_M1.py, (warning: it will take over "30 mins" to create and merge index file!)
 
